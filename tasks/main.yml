@@ -27,7 +27,7 @@
                                   "value": "{{ card_id }}"
                               },
                               "type": "LOCAL",
-                              "uuid": "{{ card_id_uuid_variable }}"
+                              "uuid": "{{ cardid_uuid_variable }}"
                           },
                           {
                               "description": "",
